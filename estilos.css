@@ -1,5 +1,4 @@
-
-  .d1{
+ .d1{
   background-color:rgb(3,150 , 248);
 }
 .d2{
@@ -16,6 +15,6 @@
   background-color:rgb(39,39 , 248);
 }
 
-  body{  
-    font-family:Hiragino Kaku Gothic ProN;
+  body{  font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    
 }
